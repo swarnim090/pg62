@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: 'newpool' # Your self-hosted agent pool name
+  name: 'pog10' # Your self-hosted agent pool name
 
 steps:
   # Step 1: Checkout the Code from GitHub
